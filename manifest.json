@@ -3,14 +3,11 @@
     "name": "web archive",
     "version": "1.0",
     "description": "Inserts a URL into the current tab's URL",
-    "permissions": ["activeTab"],
-    "action": {
-      "default_popup": "popup.html"
-    },
+    "permissions": ["activeTab","contextMenus","tabs"],
     "icons": {
       "16": "get.png",
       "48": "get.png",
       "128": "get.png"
-    }
-  }
-  
+    },
+    "background":{"service_worker":"main.js"}
+}
