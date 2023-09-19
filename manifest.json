@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "web archive",
+    "name": "Web Archive Search",
     "version": "1.0",
-    "description": "Inserts a URL into the current tab's URL",
+    "description": "Search for the selected domain on Web Archive",
     "permissions": ["activeTab","contextMenus","tabs"],
     "icons": {
       "16": "get.png",
