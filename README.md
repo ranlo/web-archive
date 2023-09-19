@@ -30,3 +30,4 @@ Just mark (select) the domain name you want to search for, right-click, and sele
 
 If you would rather search for the domain of a link, just right-click the link instead (without selecting)
 
+The results will open in a new tab
