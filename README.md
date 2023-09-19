@@ -21,3 +21,12 @@
 Select to your clone directory, and you're done!
 
 Based on https://github.com/husseinphp/web-archive
+
+# Usage
+
+Just mark (select) the domain name you want to search for, right-click, and select 'Search WebArchive'
+
+![image](https://github.com/ranlo/web-archive/assets/3043854/a9316bb1-f993-434f-aab0-1f646e222b75)
+
+If you would rather search for the domain of a link, just right-click the link instead (without selecting)
+
