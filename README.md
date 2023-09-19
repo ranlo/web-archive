@@ -18,4 +18,6 @@
 
 <img width="404" alt="image" src="https://github.com/ranlo/web-archive/assets/3043854/9026b08e-dedd-43c0-a898-ac3c1a615692">
 
+Select to your clone directory, and you're done!
+
 Based on https://github.com/husseinphp/web-archive
