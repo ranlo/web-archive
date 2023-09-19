@@ -6,3 +6,4 @@
 # 2- Enable 'Developer Mode'
 # 3- Click Load Unpacked
 
+Based on https://github.com/husseinphp/web-archive
